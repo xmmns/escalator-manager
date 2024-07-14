@@ -1,0 +1,62 @@
+{
+  "publicPath": "/",
+  "entries": {
+    "main": [
+      "js/framework.js",
+      "css/41098354.css",
+      "js/778.js",
+      "css/main.css",
+      "js/main.js"
+    ]
+  },
+  "pages": {
+    "layout": [
+      "js/796.js",
+      "css/640.css",
+      "js/640.js",
+      "js/886.js",
+      "css/p_layout.css",
+      "js/p_layout.js"
+    ],
+    "escalator-list-index": [
+      "js/bc40af40.js",
+      "js/30e1f94b.js",
+      "js/796.js",
+      "css/640.css",
+      "js/640.js",
+      "css/993.css",
+      "js/993.js",
+      "js/p_escalator-list-index.js"
+    ],
+    "project-list-index": [
+      "js/bc40af40.js",
+      "js/30e1f94b.js",
+      "js/796.js",
+      "css/640.css",
+      "js/640.js",
+      "css/993.css",
+      "js/993.js",
+      "js/p_project-list-index.js"
+    ],
+    "user-manager-index": [
+      "js/bc40af40.js",
+      "js/30e1f94b.js",
+      "js/796.js",
+      "css/640.css",
+      "js/640.js",
+      "css/993.css",
+      "js/993.js",
+      "js/p_user-manager-index.js"
+    ],
+    "$": [
+      "js/796.js",
+      "js/p_$.js"
+    ]
+  },
+  "assets": {
+    "src/assets/logo.png": "1a29be69",
+    "src/assets/22.webp": "6cc638c6",
+    "src/assets/1.jpg": "13f2fd1d"
+  },
+  "dataLoader": "js/data-loader.js"
+}
