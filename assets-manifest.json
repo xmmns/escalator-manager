@@ -2,55 +2,55 @@
   "publicPath": "./",
   "entries": {
     "main": [
-      "js/framework.js",
-      "css/41098354.css",
-      "js/778.js",
-      "css/main.css",
-      "js/main.js"
+      "js/framework-6322c7cb.js",
+      "css/41098354-6322c7cb.css",
+      "js/778-6322c7cb.js",
+      "css/main-6322c7cb.css",
+      "js/main-6322c7cb.js"
     ]
   },
   "pages": {
     "layout": [
-      "js/796.js",
-      "css/640.css",
-      "js/640.js",
-      "js/886.js",
-      "css/p_layout.css",
-      "js/p_layout.js"
+      "js/796-6322c7cb.js",
+      "css/640-6322c7cb.css",
+      "js/640-6322c7cb.js",
+      "js/886-6322c7cb.js",
+      "css/p_layout-6322c7cb.css",
+      "js/p_layout-6322c7cb.js"
     ],
     "escalator-list-index": [
-      "js/bc40af40.js",
-      "js/30e1f94b.js",
-      "js/796.js",
-      "css/640.css",
-      "js/640.js",
-      "css/993.css",
-      "js/993.js",
-      "js/p_escalator-list-index.js"
+      "js/bc40af40-6322c7cb.js",
+      "js/30e1f94b-6322c7cb.js",
+      "js/796-6322c7cb.js",
+      "css/640-6322c7cb.css",
+      "js/640-6322c7cb.js",
+      "css/993-6322c7cb.css",
+      "js/993-6322c7cb.js",
+      "js/p_escalator-list-index-6322c7cb.js"
     ],
     "project-list-index": [
-      "js/bc40af40.js",
-      "js/30e1f94b.js",
-      "js/796.js",
-      "css/640.css",
-      "js/640.js",
-      "css/993.css",
-      "js/993.js",
-      "js/p_project-list-index.js"
+      "js/bc40af40-6322c7cb.js",
+      "js/30e1f94b-6322c7cb.js",
+      "js/796-6322c7cb.js",
+      "css/640-6322c7cb.css",
+      "js/640-6322c7cb.js",
+      "css/993-6322c7cb.css",
+      "js/993-6322c7cb.js",
+      "js/p_project-list-index-6322c7cb.js"
     ],
     "user-manager-index": [
-      "js/bc40af40.js",
-      "js/30e1f94b.js",
-      "js/796.js",
-      "css/640.css",
-      "js/640.js",
-      "css/993.css",
-      "js/993.js",
-      "js/p_user-manager-index.js"
+      "js/bc40af40-6322c7cb.js",
+      "js/30e1f94b-6322c7cb.js",
+      "js/796-6322c7cb.js",
+      "css/640-6322c7cb.css",
+      "js/640-6322c7cb.js",
+      "css/993-6322c7cb.css",
+      "js/993-6322c7cb.js",
+      "js/p_user-manager-index-6322c7cb.js"
     ],
     "$": [
-      "js/796.js",
-      "js/p_$.js"
+      "js/796-6322c7cb.js",
+      "js/p_$-6322c7cb.js"
     ]
   },
   "assets": {
